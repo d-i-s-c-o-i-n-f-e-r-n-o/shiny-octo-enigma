@@ -1,0 +1,57 @@
+Key,Id,Russian(ru),English(en)
+"sound",6687073705984,"Звуки","Sound"
+"control",8131663306752,"Управление","Controls"
+"music",8602759143424,"Музыка","Music"
+"effects",8821404016640,"Эффекты","Effects"
+"weapon_desc",11964321832960,"<line-height=5><u>Оружие</u>
+</line-height>
+Атаковать   <color=#C2F7FF>ЛКМ</color>
+Сменить     <color=#C2F7FF>ПКМ</color>
+Перезарядить  <color=#C2F7FF>R</color>","<line-height=5><u>Weapon</u>
+</line-height>
+Attack     <color=#C2F7FF>LMB</color>
+Change     <color=#C2F7FF>RMB</color>
+Reload       <color=#C2F7FF>R</color>"
+"move_desc",13120062300160,"<line-height=5><u>Передвижение</u>
+</line-height>
+Вверх      <color=#C2F7FF>W</color>
+Влево      <color=#C2F7FF>A</color>
+Вниз       <color=#C2F7FF>S</color>
+Вправо     <color=#C2F7FF>D</color>
+","<line-height=5><u>Movement</u>
+</line-height>
+Up        <color=#C2F7FF>W</color>
+Left      <color=#C2F7FF>A</color>
+Down      <color=#C2F7FF>S</color>
+Right     <color=#C2F7FF>D</color>
+"
+"pause_desc",13642844545024,"Смартфон и пауза <color=#C2F7FF>Esc/Space</color>","Smartphone and pause <color=#C2F7FF>Esc/Space</color>"
+"run_desc",14165194776576,"Бег
+Ctrl  Выбрано:
+Shift","Run
+Ctrl  Chosen:
+Shift"
+"interact_desc",14722923962368,"Взаимодействие
+E
+F   Выбрано:","Interaction
+E
+F    Chosen:"
+"ui_desc",15127389085696,"Интерфейс","Interface"
+"saves_delete",15708086280192,"Сбросить прогресс","Reset progress"
+"settings",57407093284864,"Настройки","Settings"
+"Save",57823201796096,"Сохранить","Save"
+"keys",58207634923520,"Назначение клавиш","Key assigment"
+"language",63341668540416,"Язык","Language"
+"settings_reset",73500738396160,"Сбросить настройки","Reset settings"
+"language_name",75109979594752,"русский","english"
+"start",439912929632256,"Начать","Start"
+"start_chapter",440504292941824,"Поставить","Insert"
+"back",440865170857984,"Назад","Back"
+"choose_chapter",441358454562816,"Выберите плёнку","Choose the filmtape"
+"choose_keys",15297253726429184,"Смена управления доступна только для
+<color=#C2F700>жёлтых</color> кнопок - нажмите чтобы выбрать","Control switching is only available for
+the <color=#C2F700>yellow</color> buttons - click to select"
+"volume",15299742299267072,"Громкость","Volume"
+"reset",15306299732860928,"Сброс","Reset"
+"exit",21851125576048640,"Выход","Exit"
+"credit",21851467910946816,"Титры","Credits"

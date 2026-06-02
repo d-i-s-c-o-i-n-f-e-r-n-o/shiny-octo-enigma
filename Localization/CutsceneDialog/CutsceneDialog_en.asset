@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CutsceneDialog_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0a5d88d3d82bdcd4a9dcdd5d41ed9e15, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 839364272128
+    m_Localized: To the World.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1073133805568
+    m_Localized: With Love.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1109271928832
+    m_Localized: No Reason.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32799969140736
+    m_Localized: 000_$3...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2540666479599616
+    m_Localized: 003_...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2540744988581888
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2540835656851456
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38362417356800
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38324400185344
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35282862891008
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34884974436352
+    m_Localized: 102_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34981409873920
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38408156241920
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38438552363008
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38508278472704
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38568881971200
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38620924895232
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541045166530560
+    m_Localized: 003_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541135629279232
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541371651153920
+    m_Localized: 103_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541430874726400
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541542036365312
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541649980973056
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541779601743872
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541727290384384
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541798593552384
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541894060105728
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541936808452096
+    m_Localized: 102_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2541866709049344
+    m_Localized: 002_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2933864750276608
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936454246457344
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936476526600192
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936478304985088
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936478871216128
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936479412281344
+    m_Localized: 001_...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936741732442112
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936743980589056
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936744584568832
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936745154994176
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936746425868288
+    m_Localized: 001_...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936747134705664
+    m_Localized: 101_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3146916586217472
+    m_Localized: 001_Well... Yeah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3147024786677760
+    m_Localized: 001_
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

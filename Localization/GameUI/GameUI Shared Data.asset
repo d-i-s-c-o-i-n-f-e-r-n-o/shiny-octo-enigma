@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameUI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameUI
+  m_TableCollectionNameGuidString: 9e9949aeca4864f4b81aa6bc7d3e86c4
+  m_Entries:
+  - m_Id: 62984232960
+    m_Key: diary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 853673451520
+    m_Key: tasks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174051168256
+    m_Key: map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1498056957952
+    m_Key: profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536465965056
+    m_Key: location_choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35876391161585664
+    m_Key: keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2925898702848
+    m_Key: ostvine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3357773602816
+    m_Key: watercall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3550044692480
+    m_Key: vivestone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3773617872896
+    m_Key: oldmine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3886557896704
+    m_Key: oldshell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4001750261760
+    m_Key: lagholm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4149658198016
+    m_Key: terramile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83008206422564864
+    m_Key: ostvine_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83010599885365248
+    m_Key: watercall_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83011286392266752
+    m_Key: viveston_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83011692308619264
+    m_Key: oldmine_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83012024505884672
+    m_Key: oldshell_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83012305763328000
+    m_Key: lagholm_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83012677324136448
+    m_Key: terramile_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83075085593894912
+    m_Key: pause
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2478376386598797314
+  references:
+    version: 2
+    RefIds:
+    - rid: 2478376386598797314
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1760014819631

@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainMenu
+  m_TableCollectionNameGuidString: 1bd1aa2677b1d224b84868eefa5cd092
+  m_Entries:
+  - m_Id: 6687073705984
+    m_Key: sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8131663306752
+    m_Key: control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8602759143424
+    m_Key: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8821404016640
+    m_Key: effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11964321832960
+    m_Key: weapon_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13120062300160
+    m_Key: move_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13642844545024
+    m_Key: pause_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14165194776576
+    m_Key: run_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14722923962368
+    m_Key: interact_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15127389085696
+    m_Key: ui_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15708086280192
+    m_Key: saves_delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57407093284864
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57823201796096
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58207634923520
+    m_Key: keys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63341668540416
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73500738396160
+    m_Key: settings_reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75109979594752
+    m_Key: language_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439912929632256
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440504292941824
+    m_Key: start_chapter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440865170857984
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441358454562816
+    m_Key: choose_chapter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15297253726429184
+    m_Key: choose_keys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299742299267072
+    m_Key: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15306299732860928
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21851125576048640
+    m_Key: exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21851467910946816
+    m_Key: credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57307634520449024
+    m_Key: controls_desc0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57313389151674368
+    m_Key: controls_switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57354449265516544
+    m_Key: for_tip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57691350233145344
+    m_Key: controls_desc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59189757716094976
+    m_Key: chapter_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59189818407673856
+    m_Key: chapter_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59189842566864896
+    m_Key: chapter_3
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6572947679125438488
+  references:
+    version: 2
+    RefIds:
+    - rid: 6572947679125438488
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1754294677167

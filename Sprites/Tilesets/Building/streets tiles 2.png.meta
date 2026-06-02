@@ -1,0 +1,6963 @@
+fileFormatVersion: 2
+guid: e3ed2549f2462804aa7f765bad81a864
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: streets tiles 2_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 372
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8989785f5d15ff744b18dc66c2f6f041
+      internalID: 868515893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 372
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e7eaacda233e2479a17bcfb46e5016
+      internalID: 700856390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 372
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a3c33f8484364a8e2164859cce241
+      internalID: 1625946642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 372
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa297c3d1d4df546bfbf4922401f438
+      internalID: -219077934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 373
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9443e630c08f2429ce996e7c79551f
+      internalID: 1766768557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 373
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58437404978b1af4796929f167e73de4
+      internalID: 1725255413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 373
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e375c78ab8333444b3e7add695eda89
+      internalID: -2113918472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 373
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74cec50a05b7b419e9991d51c2ce6c
+      internalID: 615162522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd967ef2c3cfbe4d898a7c514304437
+      internalID: 417262605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6011286a490614bb115aed88d0298b
+      internalID: -29623738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ba7216fa0e164899e75387abcaf95
+      internalID: 1321740260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d62e4b0987564eae05c5a4bb2af88
+      internalID: -187267259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe369426aeaadd542aebc472c3adeeb5
+      internalID: 1435128343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a9db52b21bf54db87e66e30f7d62b
+      internalID: -872594468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6162694cc6e4bc4196a44c68eec4cb6
+      internalID: -558237086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_43
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa3121bb7b31f84182b67ca0ad36496
+      internalID: 1897490156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27053a590a583664499f3d606cba45a5
+      internalID: 568099512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676c03d8844d704dba57b4a23781554
+      internalID: 1218796983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec4a43ea44d1e4ea7257c6ce5b5b5d
+      internalID: -1038137139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455dff92ad38b74a924a06aa59f7814
+      internalID: 1997160762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688564cdbed0c5841ab0fe2042c9ace3
+      internalID: 16893412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de7bc6f4515cd4098c268abdb27048
+      internalID: -1675870889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f4701651912be4aa4157a01bb95782
+      internalID: -1200068630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af716f8f80000344fbb01a53d40ad820
+      internalID: 457488036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57059f63376dd6240bfc230089a7ec05
+      internalID: -2086223302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec68b14781d2d1c468e91ee16f207d10
+      internalID: 164486694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b9429ac40ee584181b372b90a72d0f
+      internalID: -555263325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984457c0c05ef945b004d1a6492d669
+      internalID: 1661275239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_60
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72919c918854ee645ba5b3427ac4f83e
+      internalID: 1116903773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c217f338c713e545837401e95496081
+      internalID: 730382069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f32734dfde5464aacb2180cef7082f
+      internalID: 503673467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_63
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b0c1dd8d964b4a8dc01940eed47bf
+      internalID: -1631132373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b169d2fcfdda4a922244a94db9e01
+      internalID: -2133696109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0ee362ea0fe01418bc4710284e9105
+      internalID: -106971075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_68
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a7bae1c4419c45ada06cbaf7847fe
+      internalID: -1862228161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a778d4628ed7164287a325849cc74ce
+      internalID: -1797176849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6bc86382f97f043afcf4ecbdd381fc
+      internalID: -1369781139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e27d7bcade2b74b9166b99f8585e4f
+      internalID: 1433607271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418c70150ba3d940ad06fe868370ea6
+      internalID: -1713556143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_74
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1144e9896981347adb9202c2a7ba93
+      internalID: -1961528323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_75
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff22f5c30365e0e4db478450a1830cae
+      internalID: 1354241416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_76
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f493d69e289f1e14fbe0c9220399b9f6
+      internalID: -1261395014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1654e2aeb81c38a4e9f8b40b7678611a
+      internalID: -474991593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_78
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb322125582cc4cad1c3fd663e430e
+      internalID: -241264026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_80
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48363ac2324374a98f55172e68581c
+      internalID: -657498813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_81
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080380fe2db0d7042bcf30b08adcc2b8
+      internalID: 694989328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_82
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8fa88065f94149997dbe2d73d7f85
+      internalID: -734252039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_83
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded9171d2f14084481653fea19aa39f
+      internalID: 130906351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_86
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233fc38f94cac84893be7169ad60b0f
+      internalID: 89876620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591c5a720d9c204daca6715cd1f2a1b
+      internalID: -919003358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5300eab009d9246b17047e4b6a6b9a
+      internalID: -1551764557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a5feaa26e63a74a910f1d078cdfaab
+      internalID: 1920500233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_91
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5de1bb5112a3c04792a24b7b7965f4e
+      internalID: -7820979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_92
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108213eea0569894f97ca49dbcb4a7dc
+      internalID: 504724031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f54e875afb684f9f8ed2b68bff15b
+      internalID: 1840623860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_94
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a466349eb03c445b01f8100d70861a
+      internalID: -672897153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_95
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94e805cdc19bdb438e20022189ec779
+      internalID: 563206272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_96
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afc9c7c8a4536d4f8bac975e3dab583
+      internalID: -847562266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f089a4324387c409e02c217dc47483
+      internalID: 1357750303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_98
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab845097d52fd644f99202bf9e280bd8
+      internalID: -1011042907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_100
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833e9f5a1ef5fb498d06227ad266103
+      internalID: 17119044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_101
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1efadbf3d6fe784c9f2dc85c1564515
+      internalID: -369705542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_102
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9031caa7cf286ef4ca1be9c6a093aaf2
+      internalID: -712026865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_103
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165ac76932f1964287d8a981db58440
+      internalID: -623850906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a8bb9b4fa1d340bdc90a133d4f577
+      internalID: -1133883285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_112
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d68df5ec28c2c14f93daaff57f9e88f
+      internalID: -1411615842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c477c2bccefe42a1d945eedccd75e
+      internalID: 2081263142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26479d56d2f94647afc6527113e479f
+      internalID: -34424458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_126
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795969fb86520134fbd2ab076d887fb8
+      internalID: 487162030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_127
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1017d7bba5b9b74eb03980e589cd158
+      internalID: 1370640385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba88f392846a444bbcb80d22f33f8bf
+      internalID: -334818491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_129
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb775ec39caed1f4fb79025b84ced5e8
+      internalID: -1776737554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b26030bce795c4498338c56a3698234
+      internalID: 2002768535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090d20233108024a8988de72d36c62e
+      internalID: -1510046037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191d55c2a970fbc44839eabbb1437e6c
+      internalID: 236566920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_134
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b33586f80f863468647cdac090a1db
+      internalID: -1569283099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_135
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e6a549f48581488309fa76dd8a95a
+      internalID: -1632802204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_136
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c620a1df05aa6a409d7826939e67b53
+      internalID: -859358614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_137
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ba8beb94096a54ebf5d69314dae7c5
+      internalID: 1358770637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5692b9378b4d48b1f10fea1ae28d5
+      internalID: 1208031316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_140
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee5bb00d07f5440be84567249f09aa
+      internalID: 786816657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_141
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a2182873b3ac40ad767ab3ca7ceb0
+      internalID: -1715684400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_142
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b027cfc2a5b347a1234d18e678d55
+      internalID: -1373876579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_143
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d4afe7eafa7d4293c632f4dc20d12
+      internalID: 1783544390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_146
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb8f29770b2ac4baca62977dbfb372
+      internalID: 1059111766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_147
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad08b716b315ffa458670ce5239293e7
+      internalID: 1261552098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_148
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d885b9b9252a4e8fcb97c1d8389e6
+      internalID: -225642739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_149
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ea2fbaf273f844cb6d74c100b0ca68
+      internalID: -487504893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4db40c4fdb724d863b087f89daedb
+      internalID: 236944381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6718578501b2c43a21b4909dd5e9fe
+      internalID: -354569004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097d8776703cd3141a8964caaeebf8e1
+      internalID: -473610456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_154
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefbe21fa6bac124ba8bd9a0db09d708
+      internalID: 708900230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_155
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082cfacd1d62bc74a93f203074267c48
+      internalID: 2002845852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_156
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94932bcc3b610264ba337da49db2e2bc
+      internalID: 1878328184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_157
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f521936f442c0c4399fd230e957c6b5
+      internalID: 1643990162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_158
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a74b35552e7d740942d4989d070178
+      internalID: -20737236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_160
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526c2c64fa2d4034bbdf95d2c6b2a25e
+      internalID: 1827384709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_161
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f79bdf226028c4499755dcffa352931
+      internalID: -875630478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_162
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b0fbae6bb6e04687285398b147260
+      internalID: 266413381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_163
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97724e830c708004fbed0c25bb51a3f1
+      internalID: 183589949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_166
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c4b0e9217dde3469740bf8b5768da1
+      internalID: 834988572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_167
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daffb99b28ddaa34c8c03ec95f6479ab
+      internalID: -1723123438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_168
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a068ba8c3be356b49b3d1899aea3fb1c
+      internalID: 324095134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_169
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8867b2326fe95c4c859662154b3f68b
+      internalID: 191738500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2709989859dd91540969057593832d71
+      internalID: 872970334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_172
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f0e1b913256543b55e1620c70a648
+      internalID: 1339791003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad7caf3b89f9d1438b543c133f439eb
+      internalID: -811926470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_174
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab56bebbacdc22c47bd50f6b36aa0fde
+      internalID: 1717087424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_175
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c78348af7dee45a48feced28dfb08
+      internalID: 1328756407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_176
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76678c214a72f9e46b3ebc67bc6b844c
+      internalID: -505644502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_177
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da126c0764de8f4ca697d8b4b9d523a
+      internalID: -662985928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_178
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62c5931a4e55649b8c33a643194603
+      internalID: -51915506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_180
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64a295ee493274da5a99db61b4204d
+      internalID: 134767479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_181
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a883ce26844949881be9acaad5973
+      internalID: 403162909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_182
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2355a6b56ad7ce041b6708969dd38e10
+      internalID: -1234383248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_183
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb32813b22bd44e900f85c27d11a76
+      internalID: -204476073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_186
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460071dcfcfc1440a2410b990671813
+      internalID: -408600272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_187
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab56434f6c61920439134598adbb81a1
+      internalID: 1709705489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_188
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47591981152484cb51d7aee8b053cb
+      internalID: 1730114265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_189
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8103d33b4a8734289579d75d9e0161
+      internalID: 757453529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_195
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e62efabfc29685438ac74b37f8a3a33
+      internalID: 224688509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_196
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b0ded55408c84cbd015afdab2d92b
+      internalID: -499734091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_197
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137479cedfef90429fc3a16ca532e03
+      internalID: 2126156818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_198
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e1a8fb5b2b9740825e0c94f4dfcc1
+      internalID: -741837880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_200
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0058234b35164ab42bfb7897031de
+      internalID: -1885627626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_201
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa0f5892bbd7e4bbd5d53c4493ba23
+      internalID: 1585570329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_202
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f5a986c83628488580dfd198749ca
+      internalID: -2132068506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_203
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed8827ccb3bf344fb0d5c2e3c924da6
+      internalID: -907224312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f71b756f2da60e4d9f09914d3cd7cf5
+      internalID: -889206878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_212
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3abce3cebfea54499cbaf21b3ff303
+      internalID: 1390694719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02035eb6de09fe24dbf91474ae3c87c7
+      internalID: 71463982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_214
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208af6d1246ddca4eb4099fc2c0a05b8
+      internalID: 2129728716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_226
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feca1d2e902c334e9e28fc73196ff6f
+      internalID: 2120517758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_227
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba6cd658e351b142b495abbab6ebfdd
+      internalID: -225836360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_228
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666dd2666bf8ad44bc37444a0f5e229
+      internalID: -416333021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_229
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae97688029559c4fba0e9ae8a897591
+      internalID: 1687715227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_231
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f42bfcec8d1d469ffa8edd48fa2cd
+      internalID: -838557275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_232
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f015423d257774e89aa76b3f42481a
+      internalID: 312396175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c6cd6fe984d14439583b05e90179e2
+      internalID: 720745252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_234
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d3c45938d1bd4791982c1f92e15c0
+      internalID: -1304661561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_235
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb8790718b5d0d4cbf5d23d7fef3505
+      internalID: 391030679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_236
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c6b9ea85116a4f84ef8f08b78cfc1
+      internalID: -1899716031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_237
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3282ec97850f14786a8b9812be4432
+      internalID: 1771522431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_238
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52192a1fff89d1e4cbe93d8146276831
+      internalID: -1187536106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_240
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ca0145daf3ad4d8e9df2b57b3a0b4
+      internalID: -2130977867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_241
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c40fc83ed306447b09d26ff05bd251
+      internalID: -2073991727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_242
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad58f97b1e34014cae9e9d189e58192
+      internalID: 1288251797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_243
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbda67275bdbd45a74ff5cd6526080
+      internalID: -1086085184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_246
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4adfe3135b1d8e45a222668eb1c4dfd
+      internalID: 104697546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_247
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f996c1903e606d48a174b84bc6b2912
+      internalID: -51572154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_248
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602fa09e41b28d84c97af38992a1881a
+      internalID: -1015655521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_249
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4399625dbbdc82f43abf3c86dd7a14d1
+      internalID: -953393107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_251
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48df6851e08dd33479849a820315d0a2
+      internalID: 850014481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_252
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653c0a0042ff1745b2c58c3b81ec75a
+      internalID: 204542465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_253
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36733eb10ea418408ff6aa2d142c878
+      internalID: 1512285430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_254
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d7f4cec0dd3e4b9dd353dd17d2d6c
+      internalID: -1217233911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_255
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a007ecd27a33e34c95ebda4acf64c8e
+      internalID: 350632558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_256
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d76bebf5654a534d98d2c9170c78fdf
+      internalID: 1414757474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_257
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423bccd9f27857146be1f01a97c1f44a
+      internalID: 1398486028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_258
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f4e2b22c549a449ea706b2c542664
+      internalID: -2042802579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_260
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7eb0c5a0789d4c888217735090959
+      internalID: -111263918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_261
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca90f674b716e43b0a74287d29ee76
+      internalID: 25013443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_262
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea7125e560d9948b8984a7d292d14a
+      internalID: -731365889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_263
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff749d9ec607144285fbf45549d5412
+      internalID: 1578179920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_266
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8da2882e1e9f649b723b70c4fb8dfc
+      internalID: 1982255307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_267
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5547a3f6a5d6848b2c05ac660fa614
+      internalID: -2030133193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_268
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ce828e3eacd84cb8fbc84028639cf
+      internalID: -1176391372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_269
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8711ce0aff9c646ae7432834936082
+      internalID: -501023403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_271
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee350be6cd54d42428700e64b95fb7d1
+      internalID: -1140924581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_272
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd971e7c3c8e349ac79a1b091933ef
+      internalID: 1379261933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_273
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494291cfe338cba4481e98d6a62f3d04
+      internalID: -873159148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_274
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee82c67487c2447b6c13e850f0843b
+      internalID: 1781279807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_275
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68258b647d9ba744ab03f03b56240247
+      internalID: 493707414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_276
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8dbc9f0a30e5d42b6d369b8bf8bde5
+      internalID: -829623411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_277
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc34f8f9d98dba43919dcdaf5c6d48f
+      internalID: 1778932305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_278
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc83eaacc7a0348bc6c1234f550027
+      internalID: 589916814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_280
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2714d04ac1f485498cc7692d994ed9e
+      internalID: 1273874891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_281
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09beca13937fdc04a8e77a7ed2a1b6cb
+      internalID: 1827512958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_282
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70290eef609394e975eef4365bb1fc
+      internalID: 1110958073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_283
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e238e937b334c4b9ec59208514c1fd
+      internalID: 1445994593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_286
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8bd1b407c5bd246ae6fd0ba69db897
+      internalID: -1041887327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_287
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40da4d287b063438fdbf91d668e38f
+      internalID: -532454334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_288
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4c9672870d8f40a33ccfab5d27a58
+      internalID: 650021115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_295
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4127593d6cba8459800d111e8e0618
+      internalID: -1003703547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_296
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea9505185e0644b81b22dbc032af8f
+      internalID: 1734571491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_297
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7015bc666a2ecf747a80a5932c04a509
+      internalID: 1486701988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_298
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeac241ccf17fe4f8a8163a81a8736b
+      internalID: -549256594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_300
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8019ad29917432f488ad73f6af09540e
+      internalID: 1665530699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_301
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847fbc292086b8b4c97139cfdc2f6181
+      internalID: -1123156757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_302
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d03a614772fa47b1b6db0a2228283
+      internalID: 248231051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_303
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ad76bd90b26645953063a3c1cd567
+      internalID: -2034710510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_306
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29f5fc21ad4b0b4096ee57690a08f3c
+      internalID: 1595055196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_307
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436adb2b86d76541a9e1ec52b068c41
+      internalID: -1853399801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_308
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2538794ffc40342acaf444d2928e94
+      internalID: 1447060057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_309
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d208c05e6ef3fc845926b37cf7c9f919
+      internalID: 342422145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_311
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8bd2182034e7441b6fdfe644aa28f3
+      internalID: 1871776109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_312
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cdf6dae9d66e41b01fa62767bf365
+      internalID: 687947161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_313
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5d54ff8ef230b479fd264d1e7d6c71
+      internalID: 2145875591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_314
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b7a8e24d92e7947b125823997b9dbf
+      internalID: -1847811490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_326
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e312bcaf60cfa47b1597b50c661618
+      internalID: -2084379211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_327
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec8d20f9f079544b86772d9d625e4b4
+      internalID: -1018341713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_328
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3994ca621ccf4ed47bf95cb74f49b02b
+      internalID: 1306767617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_329
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015781a989df7604fbef6d102ea445b0
+      internalID: -1095227831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_331
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64674e2633e60f4c801fb3166cd36a2
+      internalID: -323122285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_332
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75e7a5075ff1b4783b8c03eb51cc8f
+      internalID: 1371051114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_333
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e6c0deaef027409d25d68254556aa
+      internalID: 706570636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_334
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beef66b23c11664bb4ce0911f119f1c
+      internalID: -335949725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_335
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2d4b5571aa114f8b9df7f7b390a07
+      internalID: 366769064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_336
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33feffb4850086499500cc131e56f4c
+      internalID: -1241862354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_337
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c4242bdba69f4fa7b76bdbd68cec3
+      internalID: -792480205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_338
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e690a934bd69b9438a7655eec8c1b5c
+      internalID: 379644809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_342
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4fd2e3a9ac284dbe3ab25f2d27b8a
+      internalID: 1019548497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_343
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d168a2e682218a24b9cfd41388db3c56
+      internalID: -445103546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_344
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a7ca59b8d1f24cb4267e35b3431a0
+      internalID: -1201026277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_345
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83387031241de6f45ac439119c204256
+      internalID: -1818139582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_347
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2eb95fe071b8c46a21de7529dadf14
+      internalID: 1343206189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_348
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b1aaaa9107c5c45868f1effd1d0f80
+      internalID: -1126618972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_349
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03b69816015a84a9a7e4753ce16e0e
+      internalID: 577095531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_350
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b983f5c89afbe1448a4f0d38696d584
+      internalID: 478778505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_351
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9e44ac9cd77f4492de3b4d6ca05fe
+      internalID: -2029450440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_352
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf72b9932dd074fb924c503cde0ce3
+      internalID: 1601495551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_353
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38215ae0e71c311429586164f8f30916
+      internalID: 738813604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_354
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00adf72c114d5d438ddca3f3cb1fe4a
+      internalID: -959163993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_355
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b07503b1fb6ff4eb894fce37d78ade
+      internalID: -723293960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_356
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858c3e6ace62c5d45b632ac9ac415e13
+      internalID: -174462921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_360
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5492a5a33acb5c42ad17650eb49e3c3
+      internalID: 1181000457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_361
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4264982574c92ed46b8667d63d5fa31b
+      internalID: -1696919266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_362
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73659b478afe2594c83f9cdaadb0b97e
+      internalID: -123584171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_363
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16bdee398f81f458abca2bd49a5873
+      internalID: 923208732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_365
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84065f55173a14240b93d874fda9f113
+      internalID: -921740818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_366
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b00a35a1c21d4d9cd69d3ac492ae5
+      internalID: 439918043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_367
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a430a3da9a5364eb9afeb94dc84968
+      internalID: -584224694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_368
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a311d06574b58494c9a02710f87356cd
+      internalID: -1185463482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_369
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c881a724a031741a8b88e55c76f6cc
+      internalID: 1116761956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_370
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fbdc080a6866c4ba3554e324f62b55
+      internalID: -1192413629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_371
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bde4984101ec498a0609a742be80d
+      internalID: -1507183035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_372
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b68b22d5e3ef7b41bfc2fc464b80fa4
+      internalID: 1460380987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_373
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2016143442a8c409d81aef1524f926
+      internalID: -695752713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_374
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee567101890f204fa905c65e43de761
+      internalID: 1082082042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_388
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6689948e6b3b3174a9eae4d5843aacdd
+      internalID: -154022414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_389
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31300724f650b924eb882b6c19519690
+      internalID: -948333473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_390
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0858cfe34dea3f348a49ae3f767e63c4
+      internalID: 23917467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_391
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeeb88742c2f1740a0d3f0b33c60610
+      internalID: 1762642768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_392
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3ea5f6e90d2644978651883b0cb33
+      internalID: 1840615105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_393
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b93f8f59ecefb4b9df8697e2b6f238
+      internalID: 1546095255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_397
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ef21083d232f40911d1317e2e786f
+      internalID: 141406274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_398
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c9bf864040ed48ac42ccd87e2ddd3
+      internalID: 83744027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_399
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e2a07f01035545b06373907253404
+      internalID: -857199848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_400
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0290a34b43fd447821235bd94b80a9
+      internalID: 543559976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_402
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae274ef19c4a0294185385f1adbbb5bc
+      internalID: 1670379916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_403
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d97df17db92444a5db4e9d5fd816f
+      internalID: 1041921134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_404
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc78b08ae3bc24ba50443d17acfce8
+      internalID: 1069184100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_405
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ef483fd005347499ab364e7e2315fa
+      internalID: -386964151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_406
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c25fcf5b23a1e48bce3f94ee692af6
+      internalID: 589320455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_407
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb82a6309880eb4b824b6df26433a0a
+      internalID: -2024144334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_408
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c52e82c0645cea4d9515a92dc8787cd
+      internalID: -1317087107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_409
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019a5f61a2eca7b42a110b9ea2e84374
+      internalID: -1235813894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_410
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529be615315e55d4a999b6b66ef26f0c
+      internalID: 437999094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_411
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983977c0a24f1e54b9d4d68ccaf33d0d
+      internalID: 1087404676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_415
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4871c1debbeada4496d6750869fb818
+      internalID: -135287013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_416
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdff86de9f3ecc4f8e7281cc540d6d3
+      internalID: 1261929838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_417
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f801064a74743842809a271a9ae3f4c
+      internalID: -677210957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_418
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301726688c4141544aa9f97968526359
+      internalID: -692639267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_420
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6351de665cf7b254fbe5a0a38f0359f4
+      internalID: 803330040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_421
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788ebfe9f8c7fbf4e94817c5c5a2861c
+      internalID: 1284587214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_422
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9f844b4598a443a4079f60f6580e0
+      internalID: -1312018782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_423
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfd880b0b1a8244b5d1471bf2b943d
+      internalID: 1772119060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_425
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fcff79b0987cd489f394be11dbe8cf
+      internalID: 1790555694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_426
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a73ac6ea69694c86c4a7bc6eb1b37
+      internalID: 1166205886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_427
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0334e9ae49432c3469ece5dd082cc6e5
+      internalID: -157270630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_428
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c42c2633e8e85741bb34e53bcdbaf5c
+      internalID: -570654616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_433
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc534517306a35b458b77817be9fdec3
+      internalID: -1537349323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_434
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a34a0a193fb8a6469986b5a190ed5a9
+      internalID: 1742174331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_435
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c34106dd797d349a274c9e8f831ed6
+      internalID: -250043562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_436
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb11a94569d0044d8bdedde945263fa
+      internalID: 471430154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_438
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e290dd08ec41d49853c508a78ccf52
+      internalID: 872539065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_439
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8a50b371dd8b479c6623dbefa1efd
+      internalID: -1476590074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_440
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cf1f9830e8984990a0d48c4bfb67d
+      internalID: 1134361157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_441
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fccc0ed7cf780345837e71cca28c608
+      internalID: 1722131837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_449
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64b21a6c49b9c4baa2508b58b9c6d6
+      internalID: -788275101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_450
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c1e26cfdd2c534e8a1e1db484b6335
+      internalID: 2104499528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_451
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d801c177b4c0479043ec38d08c219
+      internalID: -445888962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_452
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8084a4bf9ff5e047bfc3dc0fbb9c426
+      internalID: 788191050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_454
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bdf2cb6ea6c2342b5e560132867307
+      internalID: 1976126927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_455
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec97c55f8d8be46aa04618b38309b6
+      internalID: -703461681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_456
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a9ed8eef071ef46a62dfafdf2451a5
+      internalID: -1525029945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_457
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c1fa7e09f33664a8622c62133d7372
+      internalID: 813103092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: streets tiles 2_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3aa0e0ae4faf4cb61a0a8626095e5
+      internalID: -313199232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      streets tiles 2_0: -313199232
+      streets tiles 2_1: 943521435
+      streets tiles 2_10: 2011702626
+      streets tiles 2_100: 17119044
+      streets tiles 2_101: -369705542
+      streets tiles 2_102: -712026865
+      streets tiles 2_103: -623850906
+      streets tiles 2_104: -460771446
+      streets tiles 2_105: 1880706246
+      streets tiles 2_106: 1789902239
+      streets tiles 2_107: -372175075
+      streets tiles 2_108: 1554451289
+      streets tiles 2_109: -598748139
+      streets tiles 2_11: -490329710
+      streets tiles 2_110: 509367461
+      streets tiles 2_111: -1133883285
+      streets tiles 2_112: -1411615842
+      streets tiles 2_113: 2081263142
+      streets tiles 2_114: -34424458
+      streets tiles 2_115: -1903191805
+      streets tiles 2_116: 2058554537
+      streets tiles 2_117: 1966683179
+      streets tiles 2_118: 618496157
+      streets tiles 2_119: 1978700285
+      streets tiles 2_12: -1784226192
+      streets tiles 2_120: 1744032881
+      streets tiles 2_121: 1547118079
+      streets tiles 2_122: 1046431393
+      streets tiles 2_123: -911212033
+      streets tiles 2_124: -292013041
+      streets tiles 2_125: -1696845990
+      streets tiles 2_126: 487162030
+      streets tiles 2_127: 1370640385
+      streets tiles 2_128: -334818491
+      streets tiles 2_129: -1776737554
+      streets tiles 2_13: 806374700
+      streets tiles 2_130: 844187250
+      streets tiles 2_131: 2002768535
+      streets tiles 2_132: -1510046037
+      streets tiles 2_133: 236566920
+      streets tiles 2_134: -1569283099
+      streets tiles 2_135: -1632802204
+      streets tiles 2_136: -859358614
+      streets tiles 2_137: 1358770637
+      streets tiles 2_138: 1208031316
+      streets tiles 2_139: -205121480
+      streets tiles 2_14: -158571576
+      streets tiles 2_140: 786816657
+      streets tiles 2_141: -1715684400
+      streets tiles 2_142: -1373876579
+      streets tiles 2_143: 1783544390
+      streets tiles 2_144: 2132650177
+      streets tiles 2_145: 992928943
+      streets tiles 2_146: 1059111766
+      streets tiles 2_147: 1261552098
+      streets tiles 2_148: -225642739
+      streets tiles 2_149: -487504893
+      streets tiles 2_15: -713876121
+      streets tiles 2_150: 666507357
+      streets tiles 2_151: 236944381
+      streets tiles 2_152: -354569004
+      streets tiles 2_153: -473610456
+      streets tiles 2_154: 708900230
+      streets tiles 2_155: 2002845852
+      streets tiles 2_156: 1878328184
+      streets tiles 2_157: 1643990162
+      streets tiles 2_158: -20737236
+      streets tiles 2_159: -1076978124
+      streets tiles 2_16: 1499902773
+      streets tiles 2_160: 1827384709
+      streets tiles 2_161: -875630478
+      streets tiles 2_162: 266413381
+      streets tiles 2_163: 183589949
+      streets tiles 2_164: 1349693802
+      streets tiles 2_165: -36043075
+      streets tiles 2_166: 834988572
+      streets tiles 2_167: -1723123438
+      streets tiles 2_168: 324095134
+      streets tiles 2_169: 191738500
+      streets tiles 2_17: 534500034
+      streets tiles 2_170: -261556140
+      streets tiles 2_171: 872970334
+      streets tiles 2_172: 1339791003
+      streets tiles 2_173: -811926470
+      streets tiles 2_174: 1717087424
+      streets tiles 2_175: 1328756407
+      streets tiles 2_176: -505644502
+      streets tiles 2_177: -662985928
+      streets tiles 2_178: -51915506
+      streets tiles 2_179: 2127607730
+      streets tiles 2_18: 1859789854
+      streets tiles 2_180: 134767479
+      streets tiles 2_181: 403162909
+      streets tiles 2_182: -1234383248
+      streets tiles 2_183: -204476073
+      streets tiles 2_184: 1744340439
+      streets tiles 2_185: 390978129
+      streets tiles 2_186: -408600272
+      streets tiles 2_187: 1709705489
+      streets tiles 2_188: 1730114265
+      streets tiles 2_189: 757453529
+      streets tiles 2_19: 654234368
+      streets tiles 2_190: 1987778522
+      streets tiles 2_191: 17932804
+      streets tiles 2_192: 1349743831
+      streets tiles 2_193: 1613304435
+      streets tiles 2_194: 715246373
+      streets tiles 2_195: 224688509
+      streets tiles 2_196: -499734091
+      streets tiles 2_197: 2126156818
+      streets tiles 2_198: -741837880
+      streets tiles 2_199: 571385336
+      streets tiles 2_2: -359277672
+      streets tiles 2_20: -132021711
+      streets tiles 2_200: -1885627626
+      streets tiles 2_201: 1585570329
+      streets tiles 2_202: -2132068506
+      streets tiles 2_203: -907224312
+      streets tiles 2_204: 719150327
+      streets tiles 2_205: 2085058776
+      streets tiles 2_206: -1193631796
+      streets tiles 2_207: -2115892518
+      streets tiles 2_208: 633749284
+      streets tiles 2_209: 2045343503
+      streets tiles 2_21: 113411909
+      streets tiles 2_210: 1659178657
+      streets tiles 2_211: -889206878
+      streets tiles 2_212: 1390694719
+      streets tiles 2_213: 71463982
+      streets tiles 2_214: 2129728716
+      streets tiles 2_215: -804769377
+      streets tiles 2_216: -1104237474
+      streets tiles 2_217: 2063748913
+      streets tiles 2_218: -1816472809
+      streets tiles 2_219: -283244546
+      streets tiles 2_22: -153914807
+      streets tiles 2_220: -1893135826
+      streets tiles 2_221: 2092677316
+      streets tiles 2_222: -274661995
+      streets tiles 2_223: 826329291
+      streets tiles 2_224: 2061726812
+      streets tiles 2_225: -561792449
+      streets tiles 2_226: 2120517758
+      streets tiles 2_227: -225836360
+      streets tiles 2_228: -416333021
+      streets tiles 2_229: 1687715227
+      streets tiles 2_23: -156585248
+      streets tiles 2_230: -822518109
+      streets tiles 2_231: -838557275
+      streets tiles 2_232: 312396175
+      streets tiles 2_233: 720745252
+      streets tiles 2_234: -1304661561
+      streets tiles 2_235: 391030679
+      streets tiles 2_236: -1899716031
+      streets tiles 2_237: 1771522431
+      streets tiles 2_238: -1187536106
+      streets tiles 2_239: -1231806619
+      streets tiles 2_24: 1881189683
+      streets tiles 2_240: -2130977867
+      streets tiles 2_241: -2073991727
+      streets tiles 2_242: 1288251797
+      streets tiles 2_243: -1086085184
+      streets tiles 2_244: 988362918
+      streets tiles 2_245: -707575060
+      streets tiles 2_246: 104697546
+      streets tiles 2_247: -51572154
+      streets tiles 2_248: -1015655521
+      streets tiles 2_249: -953393107
+      streets tiles 2_25: 547943777
+      streets tiles 2_250: -716699650
+      streets tiles 2_251: 850014481
+      streets tiles 2_252: 204542465
+      streets tiles 2_253: 1512285430
+      streets tiles 2_254: -1217233911
+      streets tiles 2_255: 350632558
+      streets tiles 2_256: 1414757474
+      streets tiles 2_257: 1398486028
+      streets tiles 2_258: -2042802579
+      streets tiles 2_259: -206381271
+      streets tiles 2_26: 868515893
+      streets tiles 2_260: -111263918
+      streets tiles 2_261: 25013443
+      streets tiles 2_262: -731365889
+      streets tiles 2_263: 1578179920
+      streets tiles 2_264: 482475960
+      streets tiles 2_265: -1002691130
+      streets tiles 2_266: 1982255307
+      streets tiles 2_267: -2030133193
+      streets tiles 2_268: -1176391372
+      streets tiles 2_269: -501023403
+      streets tiles 2_27: 700856390
+      streets tiles 2_270: -1560159790
+      streets tiles 2_271: -1140924581
+      streets tiles 2_272: 1379261933
+      streets tiles 2_273: -873159148
+      streets tiles 2_274: 1781279807
+      streets tiles 2_275: 493707414
+      streets tiles 2_276: -829623411
+      streets tiles 2_277: 1778932305
+      streets tiles 2_278: 589916814
+      streets tiles 2_279: -1678712051
+      streets tiles 2_28: 1625946642
+      streets tiles 2_280: 1273874891
+      streets tiles 2_281: 1827512958
+      streets tiles 2_282: 1110958073
+      streets tiles 2_283: 1445994593
+      streets tiles 2_284: 1348689409
+      streets tiles 2_285: 1565679040
+      streets tiles 2_286: -1041887327
+      streets tiles 2_287: -532454334
+      streets tiles 2_288: 650021115
+      streets tiles 2_289: -461560074
+      streets tiles 2_29: -219077934
+      streets tiles 2_290: -75533164
+      streets tiles 2_291: 1580745352
+      streets tiles 2_292: 189528726
+      streets tiles 2_293: 1664052509
+      streets tiles 2_294: -267716810
+      streets tiles 2_295: -1003703547
+      streets tiles 2_296: 1734571491
+      streets tiles 2_297: 1486701988
+      streets tiles 2_298: -549256594
+      streets tiles 2_299: 457270857
+      streets tiles 2_3: 172994720
+      streets tiles 2_30: -1002716511
+      streets tiles 2_300: 1665530699
+      streets tiles 2_301: -1123156757
+      streets tiles 2_302: 248231051
+      streets tiles 2_303: -2034710510
+      streets tiles 2_304: -1995151896
+      streets tiles 2_305: -1232388999
+      streets tiles 2_306: 1595055196
+      streets tiles 2_307: -1853399801
+      streets tiles 2_308: 1447060057
+      streets tiles 2_309: 342422145
+      streets tiles 2_31: 1766768557
+      streets tiles 2_310: 949901911
+      streets tiles 2_311: 1871776109
+      streets tiles 2_312: 687947161
+      streets tiles 2_313: 2145875591
+      streets tiles 2_314: -1847811490
+      streets tiles 2_315: 864305900
+      streets tiles 2_316: -1884739097
+      streets tiles 2_317: -629590942
+      streets tiles 2_318: -343626225
+      streets tiles 2_319: 1244594984
+      streets tiles 2_32: 1725255413
+      streets tiles 2_320: -1637460746
+      streets tiles 2_321: -1804274530
+      streets tiles 2_322: -1221433677
+      streets tiles 2_323: -384465819
+      streets tiles 2_324: 525609261
+      streets tiles 2_325: 2070662611
+      streets tiles 2_326: -2084379211
+      streets tiles 2_327: -1018341713
+      streets tiles 2_328: 1306767617
+      streets tiles 2_329: -1095227831
+      streets tiles 2_33: -2113918472
+      streets tiles 2_330: -1512420840
+      streets tiles 2_331: -323122285
+      streets tiles 2_332: 1371051114
+      streets tiles 2_333: 706570636
+      streets tiles 2_334: -335949725
+      streets tiles 2_335: 366769064
+      streets tiles 2_336: -1241862354
+      streets tiles 2_337: -792480205
+      streets tiles 2_338: 379644809
+      streets tiles 2_339: -692087414
+      streets tiles 2_34: 615162522
+      streets tiles 2_340: 1776248718
+      streets tiles 2_341: -553753770
+      streets tiles 2_342: 1019548497
+      streets tiles 2_343: -445103546
+      streets tiles 2_344: -1201026277
+      streets tiles 2_345: -1818139582
+      streets tiles 2_346: -634844128
+      streets tiles 2_347: 1343206189
+      streets tiles 2_348: -1126618972
+      streets tiles 2_349: 577095531
+      streets tiles 2_35: 417262605
+      streets tiles 2_350: 478778505
+      streets tiles 2_351: -2029450440
+      streets tiles 2_352: 1601495551
+      streets tiles 2_353: 738813604
+      streets tiles 2_354: -959163993
+      streets tiles 2_355: -723293960
+      streets tiles 2_356: -174462921
+      streets tiles 2_357: 1624154765
+      streets tiles 2_358: 1686964118
+      streets tiles 2_359: -1705574931
+      streets tiles 2_36: -29623738
+      streets tiles 2_360: 1181000457
+      streets tiles 2_361: -1696919266
+      streets tiles 2_362: -123584171
+      streets tiles 2_363: 923208732
+      streets tiles 2_364: -1605048892
+      streets tiles 2_365: -921740818
+      streets tiles 2_366: 439918043
+      streets tiles 2_367: -584224694
+      streets tiles 2_368: -1185463482
+      streets tiles 2_369: 1116761956
+      streets tiles 2_37: 1321740260
+      streets tiles 2_370: -1192413629
+      streets tiles 2_371: -1507183035
+      streets tiles 2_372: 1460380987
+      streets tiles 2_373: -695752713
+      streets tiles 2_374: 1082082042
+      streets tiles 2_375: -1553583876
+      streets tiles 2_376: 32805060
+      streets tiles 2_377: -1403797963
+      streets tiles 2_378: -2066962276
+      streets tiles 2_379: -624851804
+      streets tiles 2_38: -187267259
+      streets tiles 2_380: -163149002
+      streets tiles 2_381: 2053653725
+      streets tiles 2_382: 1228671305
+      streets tiles 2_383: -1015360849
+      streets tiles 2_384: 284138708
+      streets tiles 2_385: 1131691875
+      streets tiles 2_386: -1778780909
+      streets tiles 2_387: 1340548012
+      streets tiles 2_388: -154022414
+      streets tiles 2_389: -948333473
+      streets tiles 2_39: 667716190
+      streets tiles 2_390: 23917467
+      streets tiles 2_391: 1762642768
+      streets tiles 2_392: 1840615105
+      streets tiles 2_393: 1546095255
+      streets tiles 2_394: 688574809
+      streets tiles 2_395: -267752809
+      streets tiles 2_396: -344196931
+      streets tiles 2_397: 141406274
+      streets tiles 2_398: 83744027
+      streets tiles 2_399: -857199848
+      streets tiles 2_4: 857952853
+      streets tiles 2_40: 1435128343
+      streets tiles 2_400: 543559976
+      streets tiles 2_401: -2077899491
+      streets tiles 2_402: 1670379916
+      streets tiles 2_403: 1041921134
+      streets tiles 2_404: 1069184100
+      streets tiles 2_405: -386964151
+      streets tiles 2_406: 589320455
+      streets tiles 2_407: -2024144334
+      streets tiles 2_408: -1317087107
+      streets tiles 2_409: -1235813894
+      streets tiles 2_41: -872594468
+      streets tiles 2_410: 437999094
+      streets tiles 2_411: 1087404676
+      streets tiles 2_412: -1445464159
+      streets tiles 2_413: 953868323
+      streets tiles 2_414: 79612667
+      streets tiles 2_415: -135287013
+      streets tiles 2_416: 1261929838
+      streets tiles 2_417: -677210957
+      streets tiles 2_418: -692639267
+      streets tiles 2_419: -1202809293
+      streets tiles 2_42: -558237086
+      streets tiles 2_420: 803330040
+      streets tiles 2_421: 1284587214
+      streets tiles 2_422: -1312018782
+      streets tiles 2_423: 1772119060
+      streets tiles 2_424: -856834872
+      streets tiles 2_425: 1790555694
+      streets tiles 2_426: 1166205886
+      streets tiles 2_427: -157270630
+      streets tiles 2_428: -570654616
+      streets tiles 2_429: -2077380463
+      streets tiles 2_43: 1897490156
+      streets tiles 2_430: -375358235
+      streets tiles 2_431: -435846155
+      streets tiles 2_432: -2106291989
+      streets tiles 2_433: -1537349323
+      streets tiles 2_434: 1742174331
+      streets tiles 2_435: -250043562
+      streets tiles 2_436: 471430154
+      streets tiles 2_437: -1156168428
+      streets tiles 2_438: 872539065
+      streets tiles 2_439: -1476590074
+      streets tiles 2_44: -188585582
+      streets tiles 2_440: 1134361157
+      streets tiles 2_441: 1722131837
+      streets tiles 2_442: -28919548
+      streets tiles 2_443: -1065375484
+      streets tiles 2_444: -330851104
+      streets tiles 2_445: -1575992532
+      streets tiles 2_446: -1151203448
+      streets tiles 2_447: 207328648
+      streets tiles 2_448: 2024787898
+      streets tiles 2_449: -788275101
+      streets tiles 2_45: -59156769
+      streets tiles 2_450: 2104499528
+      streets tiles 2_451: -445888962
+      streets tiles 2_452: 788191050
+      streets tiles 2_453: -371059301
+      streets tiles 2_454: 1976126927
+      streets tiles 2_455: -703461681
+      streets tiles 2_456: -1525029945
+      streets tiles 2_457: 813103092
+      streets tiles 2_458: 1271777686
+      streets tiles 2_459: -2016091382
+      streets tiles 2_46: 568099512
+      streets tiles 2_460: -1818277862
+      streets tiles 2_461: -1246045263
+      streets tiles 2_462: 1542482848
+      streets tiles 2_463: -1021820241
+      streets tiles 2_464: -2028417738
+      streets tiles 2_465: -1337568707
+      streets tiles 2_466: 2127665037
+      streets tiles 2_467: 1845817274
+      streets tiles 2_468: 2132268700
+      streets tiles 2_469: -576949322
+      streets tiles 2_47: 1218796983
+      streets tiles 2_470: -1019012493
+      streets tiles 2_471: 260844926
+      streets tiles 2_472: 1137893212
+      streets tiles 2_473: 1589673827
+      streets tiles 2_474: 1657253839
+      streets tiles 2_475: -159351885
+      streets tiles 2_476: -392030671
+      streets tiles 2_477: 1258778034
+      streets tiles 2_478: 697031143
+      streets tiles 2_479: 1552718331
+      streets tiles 2_48: -1038137139
+      streets tiles 2_480: 839395536
+      streets tiles 2_481: 1114997740
+      streets tiles 2_482: 1034012839
+      streets tiles 2_483: -569353134
+      streets tiles 2_49: 1997160762
+      streets tiles 2_5: 1461975738
+      streets tiles 2_50: 1923549950
+      streets tiles 2_51: 16893412
+      streets tiles 2_52: -1675870889
+      streets tiles 2_53: -1200068630
+      streets tiles 2_54: 457488036
+      streets tiles 2_55: -2086223302
+      streets tiles 2_56: 164486694
+      streets tiles 2_57: -555263325
+      streets tiles 2_58: 1661275239
+      streets tiles 2_59: 1075688452
+      streets tiles 2_6: 1517605337
+      streets tiles 2_60: 1116903773
+      streets tiles 2_61: 730382069
+      streets tiles 2_62: 503673467
+      streets tiles 2_63: -1631132373
+      streets tiles 2_64: 807635116
+      streets tiles 2_65: 1171145651
+      streets tiles 2_66: -2133696109
+      streets tiles 2_67: -106971075
+      streets tiles 2_68: -1862228161
+      streets tiles 2_69: -1797176849
+      streets tiles 2_7: -348578262
+      streets tiles 2_70: -1031094346
+      streets tiles 2_71: -1369781139
+      streets tiles 2_72: 1433607271
+      streets tiles 2_73: -1713556143
+      streets tiles 2_74: -1961528323
+      streets tiles 2_75: 1354241416
+      streets tiles 2_76: -1261395014
+      streets tiles 2_77: -474991593
+      streets tiles 2_78: -241264026
+      streets tiles 2_79: -881912617
+      streets tiles 2_8: -910578159
+      streets tiles 2_80: -657498813
+      streets tiles 2_81: 694989328
+      streets tiles 2_82: -734252039
+      streets tiles 2_83: 130906351
+      streets tiles 2_84: -1302580599
+      streets tiles 2_85: 371564359
+      streets tiles 2_86: 89876620
+      streets tiles 2_87: -919003358
+      streets tiles 2_88: -1551764557
+      streets tiles 2_89: 1920500233
+      streets tiles 2_9: 943970508
+      streets tiles 2_90: 1843147915
+      streets tiles 2_91: -7820979
+      streets tiles 2_92: 504724031
+      streets tiles 2_93: 1840623860
+      streets tiles 2_94: -672897153
+      streets tiles 2_95: 563206272
+      streets tiles 2_96: -847562266
+      streets tiles 2_97: 1357750303
+      streets tiles 2_98: -1011042907
+      streets tiles 2_99: 781089668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

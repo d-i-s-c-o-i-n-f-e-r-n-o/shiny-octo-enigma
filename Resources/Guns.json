@@ -1,0 +1,22 @@
+{
+  "guns": [
+    {
+      "name": "police_gun",
+      "maxQuantity": 1,
+      "weightPerUnit": 50,
+      "locked": false,
+      "ammoId": 0,
+      "maxAmmo": 16,
+      "damage": 3
+    },
+    {
+      "name": "police_rifle",
+      "maxQuantity": 1,
+      "weightPerUnit": 100,
+      "locked": false,
+      "ammoId": 1,
+      "maxAmmo": 30,
+      "damage": 5
+    }
+  ]
+}

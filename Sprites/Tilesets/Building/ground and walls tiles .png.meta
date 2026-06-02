@@ -1,0 +1,3196 @@
+fileFormatVersion: 2
+guid: a54a9733ded7d5849951ca7402e775bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground and walls tiles _50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f8c40b9adfc1a41bf3480c1332a216
+      internalID: 830294736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f56bd2fdccda84a99e6dc0a1c04ed8
+      internalID: -2107663996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212f447e9bfe174e8518a564903af43
+      internalID: -1579583460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a1bfa6e8d7bf14d90fd13304970ab3
+      internalID: 1912777199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f03673cd9e8464ca4c07036620be2f
+      internalID: 1398882760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _65
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c79c5eb448a587459f7e0c1961686db
+      internalID: 1042010428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _66
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05af3e2eea6430419c84b93eb489aa2
+      internalID: 1712904764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _67
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55829047028a2564b9224b5b5dda4b4d
+      internalID: -2005799621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b952ab766eacc3b4da08a21d9f612023
+      internalID: -1502224815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b6a3d05e987841a091f0967a1be91
+      internalID: -992159797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e5e0d1d10be12499f6c01474547a38
+      internalID: -733626456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b73a518a61f284eb93a5d05063e535
+      internalID: 1468436010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _84
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55199c92f0e7bb4098a71ea2d2e40e9
+      internalID: 716546956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _85
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214625b07b5e0844e9d6f2e8c0fcf679
+      internalID: 1456863991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71175397e06e3d84d98b268064396a1b
+      internalID: 1632739850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _87
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934a3490ab9f8c48ad1f31d82693baa
+      internalID: -2089522056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _90
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ad9ac31ed0c7428254cfef58dc4cf
+      internalID: -1969338963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4925273c229939340ae66d16b8942019
+      internalID: -355682819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330886cb55ebc944f98a5b555723114b
+      internalID: 1860137716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0144cb08ec93e249a2329667e5adaab
+      internalID: 1331190414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _104
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e067889c6e35984d8cf1136bc0ca465
+      internalID: -400031712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _105
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca55340680c68f44a2a13a68b40a572
+      internalID: 1634877259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _106
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002f46bf41706d4b8329f63609373eb
+      internalID: 233449883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _107
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea930a853e8d3b4a9871819589352d3
+      internalID: -1538159489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _110
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b2c3d097017824198a38604182d964
+      internalID: -449841920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _111
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d278c3880dbbbb4196daa20d62b964e
+      internalID: -302522515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _112
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b56320cbf3954a82cabe759d8f43c
+      internalID: 341985655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f174fc1d02d2540aeb3da8a9166127
+      internalID: 1108961162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _124
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a0892106eb2f245804b5a1021615a1
+      internalID: -687502155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _125
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9523e05bd16bec94fbebeefabb2bb5c1
+      internalID: 131009760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _126
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2fb0605dac214489c3cacebccc372c
+      internalID: -133240911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _127
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4c40afff993a84a9e2b40d43bbf651
+      internalID: -540964059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _130
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5bd4fd3c8ffa47ad6c44c5f3ba1a3
+      internalID: -740282719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _131
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fad731b759e5242bd4ca042215a743
+      internalID: -1533785777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7607a529ea3e4409642212860d36e5
+      internalID: 186921041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _133
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a747a9bdf287b394380267d6e4df6bd9
+      internalID: 1900177276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91eef946bdc264ea3ce3bc6474ea9f
+      internalID: -922538261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe6048677bfe04d84015382c4a8796
+      internalID: 2109776832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd007f624846e4c9de453999cb402e
+      internalID: 373392282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf661377b3f36794e888f11a6d4175bd
+      internalID: 1410061988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f330c4dab315f743bd54e6925f63ae4
+      internalID: 2060746226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _156
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a7db0f4e550247ae887dc303313f8
+      internalID: -832306776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _157
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117ff40fc90496c47b8ed674c5bc2373
+      internalID: 487890158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _158
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fe852aa976ed54fb20e748346bd80a
+      internalID: 1022716906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _159
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02f2952c88ee840b6be7957499d0ca
+      internalID: -1801350577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495054329c700bd4d94bbae410089476
+      internalID: -2020783515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4d1b7bf7eef84baad9f7e24b0a1fa
+      internalID: -497611297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810527049bca014baac4331c66f1fba
+      internalID: -1637614065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _164
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed511258e0179544e829c4094fedc337
+      internalID: -74762982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _165
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefa5e0ac67133439a6eb45d323891a
+      internalID: -686818257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _166
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3792940912cc418fc074ff5e1122e
+      internalID: -1237422143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _167
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d362b6463986b1c488d6794f3810dbd4
+      internalID: 1847477249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _170
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19e95f5a6001348b3315864412013f
+      internalID: -288196531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _171
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243c2652613dea548934afdb93182b7e
+      internalID: -623296435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _172
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870749e90d001748a28e21bb9a3ad00
+      internalID: -818134257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _173
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042c185700ac3b4caec0c2b48bd951b
+      internalID: -1210661736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _175
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c228d7bf68f96134cbac69f78e11456f
+      internalID: 268741534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _176
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5615844b530e225448076bb2b6f9ef5c
+      internalID: 1472318827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _177
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1d84be579fad4297058e513864082
+      internalID: 719521444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _178
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af59c77abed9840b9766ecc672baf7
+      internalID: -811374627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _179
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02787e11de01044fa2c71dc63118578
+      internalID: -1719561166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac95771d1b4780c43a2a1f901fba805f
+      internalID: -202129387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9323ab68e579a7141a4a91bd090d4372
+      internalID: 414281942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3989923aed5024c816fac22ec017ba
+      internalID: -768038381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _184
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad961b1b62405a4d97cf367ccc1dfee
+      internalID: -269992602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _185
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4626ee3b970ded489f8b17b067ff594
+      internalID: 797377351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _186
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd19c4151b6e240ba89e6787174739
+      internalID: -1744644303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _187
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b74998cace90a34da2f4cfd883b0e22
+      internalID: -572090149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _190
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3900af1a7f35c946a789632dcd9ec77
+      internalID: 1008729403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _191
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3899c14759fddc4a9d6bb8b56be850f
+      internalID: -112418801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _192
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc3c6d5708bfb4682e0de86605c6ad
+      internalID: 1995071342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _193
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4314324b108e3674296dce6bc465a0f0
+      internalID: -2110196197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _195
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00852bc07bce89942b5462a5da4fa9d1
+      internalID: -2133706488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _196
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d532609e8c2c441438ec1b7624db3c90
+      internalID: -1456589468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _197
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c70636d574814b932f34f967ed45c
+      internalID: 688584694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _198
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a0827885787a4092c4324241a2cde
+      internalID: 840299982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _199
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f65682878b02b749bdfcf0c903cfe0d
+      internalID: -154645585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _200
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5ce79383928d4e8ac5378284333e1
+      internalID: 37666046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _201
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97741fb4630504e91477a44433f7c2
+      internalID: 974669666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d8d84a8aa83144acd518a0ccbfe72
+      internalID: 868398872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _204
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a109d2a4be9e459431ccaf99a000f
+      internalID: -1093984737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _205
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1995325deaa4f142a046f8ae2e5d949
+      internalID: 693419853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _206
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e691a51e2db3764596cb098a04cfa3a
+      internalID: -396712950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _207
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb801d01dd868e4882c8e1fca569ded
+      internalID: -1875337225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _210
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ca9245885128428ceda3c115d973c
+      internalID: 341989240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _211
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9714e9f80357a074a9f1d2489b613b51
+      internalID: -1618985930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _212
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb01028b65b94e1438e5bcc01c7e5dc5
+      internalID: 1658139420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _213
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d5f580c0788d4f8f371a18b6304b9
+      internalID: -1593994801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _215
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70aef0bc5e1d234e89ae7eff7ac2870
+      internalID: 1558233980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _216
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025694b7d51f7f245abde3de300d2ff3
+      internalID: -837985585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _217
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99765f44a0add2c43a2510aefd3e4ccd
+      internalID: 871017599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _218
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8c2f54a8d21249acac4a8fd8766d5
+      internalID: -845666306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _224
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279583354ffd4ea438c41492805ad259
+      internalID: -841379607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _225
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125530360efb19d4e9ee76e053439a86
+      internalID: 809064126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _226
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192720548dee77846a58413d83e89304
+      internalID: -632419453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _227
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf31398fcf9eb45be335627084f373
+      internalID: -679412325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _230
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec066517c51454487656e976f70069
+      internalID: -361237852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _231
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89579090ec4be41b867731f1fcc587
+      internalID: 629954789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _232
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7212a75848740b4dac5c89ada46499b
+      internalID: -119435800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _233
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca5b4a072f7e534196f02b668ef0575
+      internalID: 1265765658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _235
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f9c3ce6ec84ee4f8967e17bb64b9db
+      internalID: -147016679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _236
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169119d6a70a22d498506a78bea8b4a0
+      internalID: 817587537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _237
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2800879bea9c49ae739e9bb58cb9b
+      internalID: -71735836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _238
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e568c544be925147952ed98aa1ca52b
+      internalID: -1583506194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _250
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c3ea28cad5a8b4fabae9ed69f14003
+      internalID: -1410586069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _251
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc8bf7b4ee9544bb405442294df15b
+      internalID: 1877111123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _252
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1734200746937fb458f32c4effcf2ac0
+      internalID: 84053119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _253
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba2b5c08742f348b0977838155ae01
+      internalID: 735813766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _255
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc67dafd58e3c4a92aa635bf014f6f
+      internalID: -1509731645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _256
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28a38f20adf1c4db40f0db469d9c84
+      internalID: -1613253992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _257
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fae0947f8a0364ab8ba623694e703e
+      internalID: 1297794900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _258
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c712e936eafdf74196907841461924b
+      internalID: 1629304419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _270
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59052bba7db9824e88614f63a8b8498
+      internalID: 1975179644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _271
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5cad6d07b9354e8db2c72270e7978
+      internalID: 1077080794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _272
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080952f0ac514a47aeb478c383b2624
+      internalID: -1655232302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _273
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587546082c3b04c4698d78c00ae07100
+      internalID: -924373539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _275
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b3ea6bae1e8347a85a9c2d18afc6e
+      internalID: 1010333493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _276
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56f2504d60e0845a2dd1b1fdff1e19
+      internalID: -789440761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _277
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5720ac80693dcf9438767df58a57e78c
+      internalID: 1146731504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _278
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90ae2e1ba870246aa4734e2da05c26
+      internalID: 620805500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _290
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df470df3a873841ad46024bf10641f
+      internalID: -1210363289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _291
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437606e07cc8f046b6528b3eb437806
+      internalID: -167871826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _292
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f67604611aa6f949927d11a50999964
+      internalID: 116198244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _293
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d569376c30d32446a5b1575566a3e44
+      internalID: 386870790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _295
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e131dd7c49a10c4dbe767abde987fe2
+      internalID: 1521374488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _296
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123f6e126c27224bbad88597c3b30d4
+      internalID: -215894905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _297
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c010a00e4ea427444a621a193b5eadea
+      internalID: 2139162943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground and walls tiles _298
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df214626be90d7c418313869763b37b9
+      internalID: -1273944856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ground and walls tiles _0: 1581580751
+      ground and walls tiles _1: -606992761
+      ground and walls tiles _10: 781138991
+      ground and walls tiles _100: -1519179228
+      ground and walls tiles _101: 451636362
+      ground and walls tiles _102: 1705047020
+      ground and walls tiles _103: 1427800440
+      ground and walls tiles _104: -400031712
+      ground and walls tiles _105: 1634877259
+      ground and walls tiles _106: 233449883
+      ground and walls tiles _107: -1538159489
+      ground and walls tiles _108: 1861764174
+      ground and walls tiles _109: 1035790352
+      ground and walls tiles _11: -1359833696
+      ground and walls tiles _110: -449841920
+      ground and walls tiles _111: -302522515
+      ground and walls tiles _112: 341985655
+      ground and walls tiles _113: 1108961162
+      ground and walls tiles _114: -449617364
+      ground and walls tiles _115: 1301126786
+      ground and walls tiles _116: 1466529256
+      ground and walls tiles _117: 1806496173
+      ground and walls tiles _118: -1771319796
+      ground and walls tiles _119: 249440001
+      ground and walls tiles _12: -1175868162
+      ground and walls tiles _120: 861390015
+      ground and walls tiles _121: 2046611794
+      ground and walls tiles _122: 1388581108
+      ground and walls tiles _123: 1262776543
+      ground and walls tiles _124: -687502155
+      ground and walls tiles _125: 131009760
+      ground and walls tiles _126: -133240911
+      ground and walls tiles _127: -540964059
+      ground and walls tiles _128: 1064405361
+      ground and walls tiles _129: -555325638
+      ground and walls tiles _13: -120517497
+      ground and walls tiles _130: -740282719
+      ground and walls tiles _131: -1533785777
+      ground and walls tiles _132: 186921041
+      ground and walls tiles _133: 1900177276
+      ground and walls tiles _134: 1712208630
+      ground and walls tiles _135: -1707142621
+      ground and walls tiles _136: -1332836691
+      ground and walls tiles _137: 60628027
+      ground and walls tiles _138: 1580965134
+      ground and walls tiles _139: -922538261
+      ground and walls tiles _14: 334337258
+      ground and walls tiles _140: 2109776832
+      ground and walls tiles _141: 373392282
+      ground and walls tiles _142: 1410061988
+      ground and walls tiles _143: -1356699572
+      ground and walls tiles _144: 2094298278
+      ground and walls tiles _145: 67638628
+      ground and walls tiles _146: 100965578
+      ground and walls tiles _147: 460579264
+      ground and walls tiles _148: 1513278710
+      ground and walls tiles _149: -585259575
+      ground and walls tiles _15: 564895610
+      ground and walls tiles _150: 984295394
+      ground and walls tiles _151: -979030120
+      ground and walls tiles _152: -706427124
+      ground and walls tiles _153: 1787610082
+      ground and walls tiles _154: 260073066
+      ground and walls tiles _155: 2060746226
+      ground and walls tiles _156: -832306776
+      ground and walls tiles _157: 487890158
+      ground and walls tiles _158: 1022716906
+      ground and walls tiles _159: -1801350577
+      ground and walls tiles _16: 198421487
+      ground and walls tiles _160: -2020783515
+      ground and walls tiles _161: -497611297
+      ground and walls tiles _162: -1637614065
+      ground and walls tiles _163: 662037125
+      ground and walls tiles _164: -74762982
+      ground and walls tiles _165: -686818257
+      ground and walls tiles _166: -1237422143
+      ground and walls tiles _167: 1847477249
+      ground and walls tiles _168: -593671680
+      ground and walls tiles _169: 1818602949
+      ground and walls tiles _17: 373247140
+      ground and walls tiles _170: -288196531
+      ground and walls tiles _171: -623296435
+      ground and walls tiles _172: -818134257
+      ground and walls tiles _173: -1210661736
+      ground and walls tiles _174: -303398435
+      ground and walls tiles _175: 268741534
+      ground and walls tiles _176: 1472318827
+      ground and walls tiles _177: 719521444
+      ground and walls tiles _178: -811374627
+      ground and walls tiles _179: -1719561166
+      ground and walls tiles _18: -1881573545
+      ground and walls tiles _180: -202129387
+      ground and walls tiles _181: 414281942
+      ground and walls tiles _182: -768038381
+      ground and walls tiles _183: 1020520109
+      ground and walls tiles _184: -269992602
+      ground and walls tiles _185: 797377351
+      ground and walls tiles _186: -1744644303
+      ground and walls tiles _187: -572090149
+      ground and walls tiles _188: 364899813
+      ground and walls tiles _189: 1946856133
+      ground and walls tiles _19: 255468766
+      ground and walls tiles _190: 1008729403
+      ground and walls tiles _191: -112418801
+      ground and walls tiles _192: 1995071342
+      ground and walls tiles _193: -2110196197
+      ground and walls tiles _194: 1576122272
+      ground and walls tiles _195: -2133706488
+      ground and walls tiles _196: -1456589468
+      ground and walls tiles _197: 688584694
+      ground and walls tiles _198: 840299982
+      ground and walls tiles _199: -154645585
+      ground and walls tiles _2: 1466173661
+      ground and walls tiles _20: -58812216
+      ground and walls tiles _200: 37666046
+      ground and walls tiles _201: 974669666
+      ground and walls tiles _202: 868398872
+      ground and walls tiles _203: 1207990152
+      ground and walls tiles _204: -1093984737
+      ground and walls tiles _205: 693419853
+      ground and walls tiles _206: -396712950
+      ground and walls tiles _207: -1875337225
+      ground and walls tiles _208: 1245964959
+      ground and walls tiles _209: 1203347052
+      ground and walls tiles _21: -1462050381
+      ground and walls tiles _210: 341989240
+      ground and walls tiles _211: -1618985930
+      ground and walls tiles _212: 1658139420
+      ground and walls tiles _213: -1593994801
+      ground and walls tiles _214: -23938872
+      ground and walls tiles _215: 1558233980
+      ground and walls tiles _216: -837985585
+      ground and walls tiles _217: 871017599
+      ground and walls tiles _218: -845666306
+      ground and walls tiles _219: 283123841
+      ground and walls tiles _22: -1658188433
+      ground and walls tiles _220: 529908095
+      ground and walls tiles _221: 1699897238
+      ground and walls tiles _222: -1920441246
+      ground and walls tiles _223: -245305026
+      ground and walls tiles _224: -841379607
+      ground and walls tiles _225: 809064126
+      ground and walls tiles _226: -632419453
+      ground and walls tiles _227: -679412325
+      ground and walls tiles _228: -1389979957
+      ground and walls tiles _229: 1810324260
+      ground and walls tiles _23: 1871857000
+      ground and walls tiles _230: -361237852
+      ground and walls tiles _231: 629954789
+      ground and walls tiles _232: -119435800
+      ground and walls tiles _233: 1265765658
+      ground and walls tiles _234: 2107776931
+      ground and walls tiles _235: -147016679
+      ground and walls tiles _236: 817587537
+      ground and walls tiles _237: -71735836
+      ground and walls tiles _238: -1583506194
+      ground and walls tiles _239: 1781713739
+      ground and walls tiles _24: -1788744769
+      ground and walls tiles _240: -964266406
+      ground and walls tiles _241: -1937717291
+      ground and walls tiles _242: -1393271399
+      ground and walls tiles _243: 1711021295
+      ground and walls tiles _244: -139782580
+      ground and walls tiles _245: -404720558
+      ground and walls tiles _246: -1207515711
+      ground and walls tiles _247: 915727072
+      ground and walls tiles _248: 1944605010
+      ground and walls tiles _249: 582935563
+      ground and walls tiles _25: 1585467322
+      ground and walls tiles _250: -1410586069
+      ground and walls tiles _251: 1877111123
+      ground and walls tiles _252: 84053119
+      ground and walls tiles _253: 735813766
+      ground and walls tiles _254: 266412090
+      ground and walls tiles _255: -1509731645
+      ground and walls tiles _256: -1613253992
+      ground and walls tiles _257: 1297794900
+      ground and walls tiles _258: 1629304419
+      ground and walls tiles _259: -648316148
+      ground and walls tiles _26: -84431488
+      ground and walls tiles _260: 1111758951
+      ground and walls tiles _261: -564889840
+      ground and walls tiles _262: 1344832867
+      ground and walls tiles _263: -138701837
+      ground and walls tiles _264: -2053299923
+      ground and walls tiles _265: -1296333067
+      ground and walls tiles _266: 411559882
+      ground and walls tiles _267: 1425157085
+      ground and walls tiles _268: 1994923857
+      ground and walls tiles _269: 511664029
+      ground and walls tiles _27: -965407867
+      ground and walls tiles _270: 1975179644
+      ground and walls tiles _271: 1077080794
+      ground and walls tiles _272: -1655232302
+      ground and walls tiles _273: -924373539
+      ground and walls tiles _274: 351196515
+      ground and walls tiles _275: 1010333493
+      ground and walls tiles _276: -789440761
+      ground and walls tiles _277: 1146731504
+      ground and walls tiles _278: 620805500
+      ground and walls tiles _279: -942663694
+      ground and walls tiles _28: -752313100
+      ground and walls tiles _280: -1002629738
+      ground and walls tiles _281: 1435282670
+      ground and walls tiles _282: 1365983660
+      ground and walls tiles _283: 1459635263
+      ground and walls tiles _284: -675681012
+      ground and walls tiles _285: 955374829
+      ground and walls tiles _286: 370745719
+      ground and walls tiles _287: 1441835943
+      ground and walls tiles _288: -1596548930
+      ground and walls tiles _289: -1428431908
+      ground and walls tiles _29: -862482067
+      ground and walls tiles _290: -1210363289
+      ground and walls tiles _291: -167871826
+      ground and walls tiles _292: 116198244
+      ground and walls tiles _293: 386870790
+      ground and walls tiles _294: -733178196
+      ground and walls tiles _295: 1521374488
+      ground and walls tiles _296: -215894905
+      ground and walls tiles _297: 2139162943
+      ground and walls tiles _298: -1273944856
+      ground and walls tiles _299: -91884155
+      ground and walls tiles _3: 4292652
+      ground and walls tiles _30: 1054804385
+      ground and walls tiles _300: 1525003061
+      ground and walls tiles _301: -1871196756
+      ground and walls tiles _302: 660409837
+      ground and walls tiles _303: 1445796128
+      ground and walls tiles _304: -480431807
+      ground and walls tiles _305: -842454733
+      ground and walls tiles _306: 1561527041
+      ground and walls tiles _307: 196724106
+      ground and walls tiles _308: 1859480110
+      ground and walls tiles _309: 1118365811
+      ground and walls tiles _31: 1955080175
+      ground and walls tiles _310: 920787779
+      ground and walls tiles _311: 261868078
+      ground and walls tiles _312: -1438095592
+      ground and walls tiles _313: 847626200
+      ground and walls tiles _314: 553646919
+      ground and walls tiles _315: -2088472991
+      ground and walls tiles _316: -350807255
+      ground and walls tiles _317: 165371580
+      ground and walls tiles _318: -1462708454
+      ground and walls tiles _319: -266219684
+      ground and walls tiles _32: 1049819317
+      ground and walls tiles _320: 1767166772
+      ground and walls tiles _321: 396292179
+      ground and walls tiles _322: 1400831764
+      ground and walls tiles _323: 2107681647
+      ground and walls tiles _324: 1361638192
+      ground and walls tiles _325: 1284776242
+      ground and walls tiles _326: 1517094751
+      ground and walls tiles _327: -373693776
+      ground and walls tiles _328: -1167578341
+      ground and walls tiles _329: 1650598130
+      ground and walls tiles _33: -244402998
+      ground and walls tiles _330: -2043525684
+      ground and walls tiles _331: -773042764
+      ground and walls tiles _332: -1104438662
+      ground and walls tiles _333: 842741766
+      ground and walls tiles _334: 1421639149
+      ground and walls tiles _335: -2000633649
+      ground and walls tiles _336: 227426896
+      ground and walls tiles _337: -630525860
+      ground and walls tiles _338: 1862306488
+      ground and walls tiles _339: 1599361117
+      ground and walls tiles _34: 1719562298
+      ground and walls tiles _340: 900999899
+      ground and walls tiles _341: -1916325808
+      ground and walls tiles _342: -859198052
+      ground and walls tiles _343: -1850537109
+      ground and walls tiles _344: 977671163
+      ground and walls tiles _345: 1993240073
+      ground and walls tiles _346: -965988187
+      ground and walls tiles _347: -2033231038
+      ground and walls tiles _348: -1019283669
+      ground and walls tiles _349: -512279707
+      ground and walls tiles _35: 1629406382
+      ground and walls tiles _350: 254292542
+      ground and walls tiles _351: -1489022956
+      ground and walls tiles _352: 923049774
+      ground and walls tiles _353: 474254467
+      ground and walls tiles _354: 686468105
+      ground and walls tiles _355: 1182660281
+      ground and walls tiles _356: -474328692
+      ground and walls tiles _357: 955484148
+      ground and walls tiles _358: 1815172793
+      ground and walls tiles _359: 843375896
+      ground and walls tiles _36: 1702399142
+      ground and walls tiles _360: 709565326
+      ground and walls tiles _361: -1554671030
+      ground and walls tiles _362: 1938029666
+      ground and walls tiles _363: -1888064285
+      ground and walls tiles _364: -1813032407
+      ground and walls tiles _365: 451460516
+      ground and walls tiles _366: -833396553
+      ground and walls tiles _367: -1987908909
+      ground and walls tiles _368: -175366893
+      ground and walls tiles _369: -1345109586
+      ground and walls tiles _37: 732385934
+      ground and walls tiles _370: -367569463
+      ground and walls tiles _371: 1236137090
+      ground and walls tiles _372: -943013346
+      ground and walls tiles _373: 304155414
+      ground and walls tiles _374: -672679404
+      ground and walls tiles _375: 1227068023
+      ground and walls tiles _376: 1496038625
+      ground and walls tiles _377: -1237512938
+      ground and walls tiles _378: 795093834
+      ground and walls tiles _379: -1556995215
+      ground and walls tiles _38: -1425915698
+      ground and walls tiles _380: -1826592669
+      ground and walls tiles _381: -501476303
+      ground and walls tiles _382: -303112530
+      ground and walls tiles _383: -1742798245
+      ground and walls tiles _384: -1419212087
+      ground and walls tiles _39: 1871046319
+      ground and walls tiles _4: -529047304
+      ground and walls tiles _40: -460433019
+      ground and walls tiles _41: -1077342387
+      ground and walls tiles _42: -1882669242
+      ground and walls tiles _43: 2061469970
+      ground and walls tiles _44: -809059631
+      ground and walls tiles _45: 45884826
+      ground and walls tiles _46: -91769487
+      ground and walls tiles _47: 931707482
+      ground and walls tiles _48: 678061884
+      ground and walls tiles _49: 1500147328
+      ground and walls tiles _5: 1732136641
+      ground and walls tiles _50: 830294736
+      ground and walls tiles _51: -2107663996
+      ground and walls tiles _52: -1579583460
+      ground and walls tiles _53: 1912777199
+      ground and walls tiles _54: -2028606158
+      ground and walls tiles _55: 393393552
+      ground and walls tiles _56: 719375702
+      ground and walls tiles _57: -840059798
+      ground and walls tiles _58: 708262543
+      ground and walls tiles _59: -1831131547
+      ground and walls tiles _6: -596981005
+      ground and walls tiles _60: 1461130516
+      ground and walls tiles _61: -312992349
+      ground and walls tiles _62: -1088724235
+      ground and walls tiles _63: 190315773
+      ground and walls tiles _64: 1398882760
+      ground and walls tiles _65: 1042010428
+      ground and walls tiles _66: 1712904764
+      ground and walls tiles _67: -2005799621
+      ground and walls tiles _68: 165201884
+      ground and walls tiles _69: -1173597914
+      ground and walls tiles _7: -274911489
+      ground and walls tiles _70: -1502224815
+      ground and walls tiles _71: -992159797
+      ground and walls tiles _72: -733626456
+      ground and walls tiles _73: 1468436010
+      ground and walls tiles _74: -1321672145
+      ground and walls tiles _75: 1764008731
+      ground and walls tiles _76: -1609168517
+      ground and walls tiles _77: 348377982
+      ground and walls tiles _78: -1254020849
+      ground and walls tiles _79: -604124642
+      ground and walls tiles _8: 768136105
+      ground and walls tiles _80: -495255508
+      ground and walls tiles _81: -1770951439
+      ground and walls tiles _82: 155564763
+      ground and walls tiles _83: -585095420
+      ground and walls tiles _84: 716546956
+      ground and walls tiles _85: 1456863991
+      ground and walls tiles _86: 1632739850
+      ground and walls tiles _87: -2089522056
+      ground and walls tiles _88: 1049761495
+      ground and walls tiles _89: 97339351
+      ground and walls tiles _9: -1329425817
+      ground and walls tiles _90: -1969338963
+      ground and walls tiles _91: -355682819
+      ground and walls tiles _92: 1860137716
+      ground and walls tiles _93: 1331190414
+      ground and walls tiles _94: 181502656
+      ground and walls tiles _95: -601080351
+      ground and walls tiles _96: 1149440409
+      ground and walls tiles _97: -325898443
+      ground and walls tiles _98: -1507103390
+      ground and walls tiles _99: -1123063038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

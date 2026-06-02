@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1bd1aa2677b1d224b84868eefa5cd092, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6687073705984
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8131663306752
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8602759143424
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8821404016640
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11964321832960
+    m_Localized: '<line-height=5><u>Weapon</u>
+
+      </line-height>
+
+      Attack    
+      <color=#C2F7FF>LMB</color>
+
+      Change     <color=#C2F7FF>RMB</color>
+
+      Reload      
+      <color=#C2F7FF>R</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13120062300160
+    m_Localized: '<line-height=5><u>Movement</u>
+
+      </line-height>
+
+      Up       
+      <color=#C2F7FF>W</color>
+
+      Left      <color=#C2F7FF>A</color>
+
+      Down     
+      <color=#C2F7FF>S</color>
+
+      Right     <color=#C2F7FF>D</color>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13642844545024
+    m_Localized: Smartphone and pause <color=#C2F7FF>Esc/Space</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14165194776576
+    m_Localized: 'Run
+
+      Ctrl  Chosen:
+
+      Shift'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14722923962368
+    m_Localized: 'Interaction
+
+      E
+
+      F    Chosen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15127389085696
+    m_Localized: Interface
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63341668540416
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15708086280192
+    m_Localized: Reset progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57407093284864
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57823201796096
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58207634923520
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73500738396160
+    m_Localized: Reset settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75109979594752
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439912929632256
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440504292941824
+    m_Localized: Insert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440865170857984
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441358454562816
+    m_Localized: Choose the filmtape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15297253726429184
+    m_Localized: 'Control switching is only available for
+
+      the <color=#C2F700>yellow</color>
+      buttons - click to select'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15299742299267072
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15306299732860928
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21851125576048640
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21851467910946816
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57307634520449024
+    m_Localized: '<color=#C2F7FF><line-height=5><u>            Moving</u>
+
+      </line-height></color>
+
+      Up
+
+      Left
+
+      Down
+
+      Right
+
+
+      <color=#C2F7FF><line-height=5><u>                
+      Weapon</u>
+
+      </line-height></color>
+
+      Attack
+
+      Change
+
+      Reload'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57313389151674368
+    m_Localized: 'Keyboard
+
+      Joystick'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57354449265516544
+    m_Localized: Tip us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57691350233145344
+    m_Localized: '<color=#C2F7FF><line-height=5><u>                 Actions</u>
+
+      </line-height></color>
+
+      Use
+
+      Interract
+
+      Open
+      smartphone
+
+      Run'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59189757716094976
+    m_Localized: ACT I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59189842566864896
+    m_Localized: ACT III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59189818407673856
+    m_Localized: ACT II
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

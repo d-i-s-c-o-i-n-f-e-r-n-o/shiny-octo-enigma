@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 751464d2460c97745a796dc0fbab38e1
+  m_SerializeEntries:
+  - m_GUID: 0a5d88d3d82bdcd4a9dcdd5d41ed9e15
+    m_Address: Assets/Localization/CutsceneDialog/CutsceneDialog Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bd1aa2677b1d224b84868eefa5cd092
+    m_Address: Assets/Localization/MainMenu/MainMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5024d98985c11c74dacb46c0b2d17120
+    m_Address: Assets/Localization/LocalizedSprites Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e9949aeca4864f4b81aa6bc7d3e86c4
+    m_Address: Assets/Localization/GameUI/GameUI Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c07e79fffdd3e2448b0510192c74a52b
+    m_Address: Assets/Localization/ITEMS/Gun/Gun Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 432d5c3e72c14ea48b36630fdf92176e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b4d6a55945241c24bb09a4f51c5a559b, type: 2}
+    - {fileID: 11400000, guid: f5ba4e4a1c7c4cb4b925e278e05e6b00, type: 2}

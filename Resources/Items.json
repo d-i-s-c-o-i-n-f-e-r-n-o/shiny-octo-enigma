@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "name": "potion",
+      "maxQuantity": 10,
+      "weightPerUnit": 1,
+      "locked": false
+    },
+    {
+      "name": "common_key",
+      "maxQuantity": 1,
+      "weightPerUnit": 0,
+      "locked": true
+    }
+  ]
+}

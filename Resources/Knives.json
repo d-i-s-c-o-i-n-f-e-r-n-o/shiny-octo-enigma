@@ -1,0 +1,11 @@
+{
+  "knives": [
+    {
+      "name": "kitchen_knife",
+      "maxQuantity": 1,
+      "weightPerUnit": 25,
+      "locked": false,
+      "damage": 3
+    }
+  ]
+}
